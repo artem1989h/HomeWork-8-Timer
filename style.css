@@ -1,0 +1,21 @@
+body {
+    background-color: white;
+}
+
+.count {
+    color: goldenrod;
+}
+
+.timer_line {
+    height: 40px;
+    background-color: gold;
+}
+
+.timer_button {
+    border-radius: 1em;
+    width: 100px
+}
+
+.count {
+    font-size: 2rem;
+}
